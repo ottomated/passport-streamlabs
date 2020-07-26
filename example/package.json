@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cookie-parser": "^1.4.3",
+    "cookie-session": "^2.0.0-beta.1",
+    "express": "^4.15.2",
+    "passport": "^0.3.2",
+    "passport-streamlabs": "^1.0.0"
+  }
+}

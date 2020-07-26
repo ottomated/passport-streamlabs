@@ -1,0 +1,29 @@
+{
+  "name": "@ottomated/passport-streamlabs",
+  "version": "1.0.3",
+  "description": "Streamlabs authentication strategy for Passport.",
+  "main": "index.js",
+  "homepage": "https://github.com/ottomated/passport-streamlabs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ottomated/passport-streamlabs"
+  },
+  "bugs": {
+    "url": "https://github.com/ottomated/passport-streamlabs/issues"
+  },
+  "keywords": [
+    "passport",
+    "streamlabs",
+    "twitchalerts",
+    "auth",
+    "oauth",
+    "oauth2",
+    "authentication",
+    "identity"
+  ],
+  "person": "Ottomated <otto@ottomated.net> (https://ottomated.net)",
+  "license": "ISC",
+  "dependencies": {
+    "passport-oauth2": "^1.4.0"
+  }
+}
